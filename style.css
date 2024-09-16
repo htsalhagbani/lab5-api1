@@ -21,11 +21,20 @@ body{
     
     }
 
-    .imgBox{
-        border: 1px solid red;
-    }
+
+
+    
+
     
 
 h1{
     color: darkgreen;
+}
+
+.btnd{
+    width: 100%;
+    color: darkgreen;
+    margin-top: 20px;
+    background-color: gray;
+
 }
